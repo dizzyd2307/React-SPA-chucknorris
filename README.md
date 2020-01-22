@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## NB for this APP
+Please ensure you npm install the link and start up with node index.js
+[GraphQL API](https://github.com/dizzyd2307/chucknorris-graphql-API)
 ## Available Scripts
 
 In the project directory, you can run:
